@@ -16,7 +16,7 @@ $(document).ready(function(){
     $('.dismiss-button').on('click', function(){
 	    
 
-        $('.popup-container').addClass('hide');// Make the popup container disappear
+        $('.popup-container').addClass('hide');// Make the popup container disappear.
 
     });
 });
